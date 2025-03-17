@@ -1,0 +1,3190 @@
+{
+  "region0": {
+      "title": "Adamantina",
+           "polos": 1,
+      "polo": [103]
+    },
+    "region1": {
+      "title": "Adolfo",
+           "polos": 0
+    },
+    "region2": {
+      "title": "Aguaí",
+           "polos": 1,
+           "polo": [104]
+    },
+    "region3": {
+      "title": "Águas da Prata",
+           "polos": 0
+    },
+    "region4": {
+      "title": "Águas de Lindóia",
+           "polos": 0
+    },
+    "region5": {
+      "title": "Águas de Santa Bárbara",
+           "polos": 0
+    },
+    "region6": {
+      "title": "Águas de São Pedro",
+           "polos": 0
+    },
+    "region7": {
+      "title": "Agudos",
+           "polos": 1,
+           "polo": [49]
+    },
+    "region8": {
+      "title": "Alambari",
+           "polos": 1,
+           "polo": [470]
+    },
+    "region9": {
+      "title": "Alfredo Marcondes ",
+           "polos": 0
+    },
+    "region10": {
+      "title": "Altair ",
+            "polos": 0
+    },
+    "region11": {
+      "title": "Altinópolis",
+            "polos": 1,
+            "polo": [250]
+    },
+    "region12": {
+      "title": "Alto Alegre",
+            "polos": 0
+    },
+    "region13": {
+      "title": "Alumínio",
+            "polos": 1,
+            "polo": [105]
+    },
+    "region14": {
+      "title": "Álvares Florence ",
+            "polos": 0
+    },
+    "region15": {
+      "title": "Álvares Machado ",
+            "polos": 1,
+            "polo": [406]
+    },
+    "region16": {
+      "title": "Álvaro de Carvalho",
+            "polos": 0
+    },
+    "region17": {
+      "title": "Alvinlândia",
+            "polos": 1,
+            "polo": [337]
+    },
+    "region18": {
+      "title": "Americana",
+            "polos": 1,
+            "polo": [106]
+    },
+    "region19": {
+      "title": "Américo Brasiliense",
+            "polos": 1,
+            "polo": [107]
+    },
+    "region20": {
+      "title": "Américo de Campos ",
+            "polos": 0
+    },
+    "region21": {
+      "title": "Amparo",
+            "polos": 1,
+            "polo": [108]
+    },
+    "region22": {
+      "title": "Analândia",
+            "polos": 1,
+            "polo": [471]
+    },
+    "region23": {
+      "title": "Andradina ",
+            "polos": 1,
+            "polo": [251]
+    },
+    "region24": {
+      "title": "Angatuba",
+            "polos": 0
+    },
+    "region25": {
+      "title": "Anhembi",
+            "polos": 1,
+            "polo": [252]
+    },
+    "region26": {
+      "title": "Anhumas",
+            "polos": 0
+    },
+    "region27": {
+      "title": "Aparecida ",
+            "polos": 1,
+            "polo": [109]
+    },
+    "region28": {
+      "title": "Aparecida d'Oeste ",
+            "polos": 0
+    },
+    "region29": {
+      "title": "Apiaí ",
+            "polos": 1,
+            "polo": [110]
+    },
+    "region30": {
+      "title": "Araçariguama",
+            "polos": 1,
+            "polo": [111]
+    },
+    "region31": {
+      "title": "Araçatuba ",
+            "polos": 1,
+            "polo": [236]
+    },
+    "region32": {
+      "title": "Araçoiaba da Serra",
+            "polos": 1,
+            "polo": [112]
+    },
+    "region33": {
+      "title": "Aramina",
+            "polos": 0
+    },
+    "region34": {
+      "title": "Arandu",
+            "polos": 1,
+            "polo": [253]
+    },
+    "region35": {
+      "title": "Arapeí ",
+      "polo": [481],
+            "polos": 1
+            
+    },
+    "region36": {
+      "title": "Araraquara",
+            "polos": 1,
+            "polo": [254]
+    },
+    "region37": {
+      "title": "Araras",
+            "polos": 1,
+            "polo": [2]
+    },
+    "region38": {
+      "title": "Arco-Íris",
+            "polos": 0
+    },
+    "region39": {
+      "title": "Arealva",
+            "polos": 1,
+            "polo": [321]
+    },
+    "region40": {
+      "title": "Areias ",
+            "polos": 1,
+            "polo": [255]
+    },
+    "region41": {
+      "title": " Areiópolis",
+            "polos": 1,
+            "polo": [407]
+    },
+    "region42": {
+      "title": "Ariranha",
+            "polos": 0
+    },
+    "region43": {
+      "title": "Artur Nogueira",
+            "polos": 1,
+            "polo": [113]
+    },
+    "region44": {
+      "title": "Arujá",
+            "polos": 1,
+            "polo": [114]
+    },
+    "region45": {
+      "title": "Aspásia ",
+            "polos": 0
+    },
+    "region46": {
+      "title": "Assis",
+            "polos": 1,
+            "polo": [50]
+    },
+    "region47": {
+      "title": "Atibaia",
+            "polos": 1,
+            "polo": [51]
+    },
+    "region48": {
+      "title": "Auriflama ",
+            "polos": 0
+    },
+    "region49": {
+      "title": "Avaí",
+            "polos": 0
+    },
+    "region50": {
+      "title": "Avanhandava",
+            "polos": 0
+    },
+    "region51": {
+      "title": "Avaré",
+            "polos": 1,
+            "polo": [52]
+    },
+    "region52": {
+      "title": "Bady Bassitt",
+            "polos": 1,
+            "polo": [155]
+    },
+    "region53": {
+      "title": "Balbinos",
+            "polos": 0
+    },
+    "region54": {
+      "title": "Bálsamo ",
+            "polos": 1,
+            "polo": [408]
+    },
+    "region55": {
+      "title": "Bananal ",
+            "polos": 1,
+            "polo": [256]
+    },
+    "region56": {
+      "title": "Barão de Antonina",
+            "polos": 1,
+            "polo": [455]
+    },
+    "region57": {
+      "title": "Barbosa",
+            "polos": 1,
+            "polo": [409]
+    },
+    "region58": {
+      "title": "Bariri",
+            "polos": 1,
+            "polo": [116]
+    },
+    "region59": {
+      "title": "Barra Bonita",
+            "polos": 1,
+            "polo": [117]
+    },
+    "region60": {
+      "title": "Barra do Chapéu ",
+            "polos": 0
+    },
+    "region61": {
+      "title": "Barra do Turvo ",
+            "polos": 0
+    },
+    "region62": {
+      "title": "Barretos",
+            "polos": 1,
+            "polo": [3]
+    },
+    "region63": {
+      "title": "Barrinha",
+            "polos": 1,
+            "polo": [338]
+    },
+    "region64": {
+      "title": "Barueri",
+            "polos": 1,
+            "polo": [45]
+    },
+    "region65": {
+      "title": "Bastos ",
+            "polos": 1,
+            "polo": [118]
+    },
+    "region66": {
+      "title": "Batatais",
+            "polos": 0
+    },
+    "region67": {
+      "title": "Bauru",
+            "polos": 1,
+            "polo": [340]
+    },
+    "region68": {
+      "title": "Bebedouro",
+            "polos": 0
+    },
+    "region69": {
+      "title": "Bento de Abreu ",
+            "polos": 0
+    },
+    "region70": {
+      "title": "Bernardino de Campos",
+            "polos": 1,
+            "polo": [119]
+    },
+    "region71": {
+      "title": "Bertioga ",
+            "polos": 1,
+            "polo": [120]
+    },
+    "region72": {
+      "title": "Bilac",
+            "polos": 0
+    },
+    "region73": {
+      "title": "Birigui",
+            "polos": 0
+    },
+    "region74": {
+      "title": "Biritiba Mirim ",
+            "polos": 0
+    },
+    "region75": {
+      "title": "Boa Esperança do Sul",
+            "polos": 1,
+            "polo": [122]
+    },
+    "region76": {
+      "title": "Bocaina",
+            "polos": 1,
+            "polo": [123]
+    },
+    "region77": {
+      "title": "Bofete",
+            "polos": 1,
+            "polo": [410]
+    },
+    "region78": {
+      "title": "Boituva",
+            "polos": 1,
+            "polo": [257]
+    },
+    "region79": {
+      "title": "Bom Jesus dos Perdões",
+            "polos": 1,
+            "polo": [124]
+    },
+    "region80": {
+      "title": "Bom Sucesso de Itararé ",
+            "polos": 0
+    },
+    "region81": {
+      "title": "Borá",
+            "polos": 0
+    },
+    "region82": {
+      "title": "Boraceia",
+            "polos": 0
+    },
+    "region83": {
+      "title": "Borborema",
+            "polos": 1,
+            "polo": [125]
+    },
+    "region84": {
+      "title": "Borebi",
+            "polos": 0
+    },
+    "region85": {
+      "title": "Botucatu",
+            "polos": 1,
+            "polo": [126]
+    },
+    "region86": {
+      "title": "Bragança Paulista",
+            "polos": 1,
+            "polo": [53]
+    },
+    "region87": {
+      "title": "Braúna",
+            "polos": 1,
+            "polo": [258]
+    },
+    "region88": {
+      "title": "Brejo Alegre",
+            "polos": 0
+    },
+    "region89": {
+      "title": "Brodowski",
+            "polos": 1,
+            "polo": [127]
+    },
+    "region90": {
+      "title": "Brotas",
+            "polos": 1,
+            "polo": [396]
+    },
+    "region91": {
+      "title": "Buri",
+            "polos": 1,
+            "polo": [397]
+    },
+    "region92": {
+      "title": "Buritama",
+            "polos": 0
+    },
+    "region93": {
+      "title": "Buritizal",
+            "polos": 0
+    },
+    "region94": {
+      "title": "Cabrália Paulista",
+            "polos": 0
+    },
+    "region95": {
+      "title": "Cabreúva",
+            "polos": 1,
+            "polo": [54]
+    },
+    "region96": {
+      "title": "Caçapava ",
+            "polos": 1,
+            "polo": [128]
+    },
+    "region97": {
+      "title": "Cachoeira Paulista ",
+            "polos": 1,
+            "polo": [129]
+    },
+    "region98": {
+      "title": "Caconde",
+            "polos": 1,
+            "polo": [130]
+    },
+    "region99": {
+      "title": "Cafelândia",
+            "polos": 1,
+            "polo": [131]
+    },
+    "region100": {
+      "title": "Caiabu ",
+      
+      "polos": 0
+    },
+    "region101": {
+      "title": "Caieiras",
+      "polo": [259],
+      "polos": 1
+    },
+    "region102": {
+      "title": "Caiuá",
+      
+      "polos": 0
+    },
+    "region103": {
+      "title": "Cajamar",
+      "polo": [260],
+      "polos": 1
+    },
+    "region104": {
+      "title": "Cajati ",
+      "polo": [55],
+      "polos": 1
+    },
+    "region105": {
+      "title": "Cajobi",
+      "polo": [261],
+      "polos": 1
+    },
+    "region106": {
+      "title": "Cajuru",
+      "polo": [411],
+      "polos": 1
+    },
+    "region107": {
+      "title": "Campina do Monte Alegre",
+      
+      "polos": 0
+    },
+    "region108": {
+      "title": "Campinas",
+      "polo": [262],
+      "polos": 1
+    },
+    "region109": {
+      "title": "Campo Limpo Paulista",
+      "polo": [132],
+      "polos": 1
+    },
+    "region110": {
+      "title": "Campos do Jordão ",
+      "polo": [263],
+      "polos": 1
+    },
+    "region111": {
+      "title": "Campos Novos Paulistav",
+      
+      "polos": 0
+    },
+    "region112": {
+      "title": "Cananéia ",
+      
+      "polos": 0
+    },
+    "region113": {
+      "title": "Canas ",
+      
+      "polos": 0
+    },
+    "region114": {
+      "title": "Cândido Mota ",
+      
+      "polos": 0
+    },
+    "region115": {
+      "title": "Cândido Rodrigues",
+      "polo": [412],
+      "polos": 1
+    },
+    "region116": {
+      "title": "Canitar",
+      
+      "polos": 0
+    },
+    "region117": {
+      "title": "Capão Bonito ",
+      "polo": [335],
+      "polos": 1
+    },
+    "region118": {
+      "title": "Capela do Alto",
+      "polo": [133],
+      "polos": 1
+    },
+    "region119": {
+      "title": "Capivari",
+      "polo": [134],
+      "polos": 1
+    },
+    "region120": {
+      "title": "Caraguatatuba ",
+      "polo": [56],
+      "polos": 1
+    },
+    "region121": {
+      "title": "Carapicuíba",
+      "polo": [135],
+      "polos": 1
+    },
+    "region122": {
+      "title": "Cardoso",
+      
+      "polos": 0
+    },
+    "region123": {
+      "title": "Casa Branca",
+      "polo": [136],
+      "polos": 1
+    },
+    "region124": {
+      "title": "Cássia dos Coqueiros",
+      
+      "polos": 0
+    },
+    "region125": {
+      "title": "Castilho ",
+      
+      "polos": 0
+    },
+    "region126": {
+      "title": "Catanduva",
+      "polo": [137],
+      "polos": 1
+    },
+    "region127": {
+      "title": "Catiguá ",
+      
+      "polos": 0
+    },
+    "region128": {
+      "title": "Cedral",
+      
+      "polos": 0
+    },
+    "region129": {
+      "title": "Cerqueira César",
+      "polo": [264],
+      "polos": 1
+    },
+    "region130": {
+      "title": "Cerquilho",
+      "polo": [138],
+      "polos": 1
+    },
+    "region131": {
+      "title": "Cesário Lange",
+      "polo": [139],
+      "polos": 1
+    },
+    "region132": {
+      "title": "Charqueada",
+      "polo": [140],
+      "polos": 1
+    },
+    "region133": {
+      "title": "Clementina",
+      "polo": [456],
+      "polos": 1
+    },
+    "region134": {
+      "title": "Colina",
+      "polo": [141],
+      "polos": 1
+    },
+    "region135": {
+      "title": "Colômbia",
+      
+      "polos": 0
+    },
+    "region136": {
+      "title": "Conchal",
+      "polo": [142],
+      "polos": 1
+    },
+    "region137": {
+      "title": "Conchas",
+      "polo": [143],
+      "polos": 1
+    },
+    "region138": {
+      "title": "Cordeirópolis",
+      "polo": [144],
+      "polos": 1
+    },
+    "region139": {
+      "title": "Coroados",
+      
+      "polos": 0
+    },
+    "region140": {
+      "title": "Coronel Macedo",
+      
+      "polos": 0
+    },
+    "region141": {
+      "title": "Corumbataí",
+      
+      "polos": 0
+    },
+    "region142": {
+      "title": "Cosmópolis",
+      "polo": [145],
+      "polos": 1
+    },
+    "region143": {
+      "title": "Cosmorama ",
+      
+      "polos": 0
+    },
+    "region144": {
+      "title": "Cotia",
+      
+      "polos": 0
+    },
+    "region145": {
+      "title": "Cravinhos",
+      "polo": [146],
+      "polos": 1
+    },
+    "region146": {
+      "title": "Cristais Paulista",
+      "polo": [266],
+      "polos": 1
+    },
+    "region147": {
+      "title": "Cruzália ",
+      
+      "polos": 0
+    },
+    "region148": {
+      "title": "Cruzeiro ",
+      "polo": [334],
+      "polos": 1
+    },
+    "region149": {
+      "title": "Cubatão ",
+      "polo": [57],
+      "polos": 1
+    },
+    "region150": {
+      "title": "Cunha ",
+      "polo": [147],
+      "polos": 1
+    },
+    "region151": {
+      "title": "Descalvado",
+      
+      "polos": 0
+    },
+    "region152": {
+      "title": "Diadema",
+      "polo": [6],
+      "polos": 1
+    },
+    "region153": {
+      "title": "Dirce Reis ",
+      
+      "polos": 0
+    },
+    "region154": {
+      "title": "Divinolândia",
+      
+      "polos": 0
+    },
+    "region155": {
+      "title": "Dobrada",
+      
+      "polos": 0
+    },
+    "region156": {
+      "title": "Dois Córregos",
+      "polo": [148],
+      "polos": 1
+    },
+    "region157": {
+      "title": "Dolcinópolis ",
+      
+      "polos": 0
+    },
+    "region158": {
+      "title": "Dourado",
+      "polo": [267],
+      "polos": 1
+    },
+    "region159": {
+      "title": "Dracena",
+      "polo": [58],
+      "polos": 1
+    },
+    "region160": {
+      "title": "Duartina",
+      
+      "polos": 0
+    },
+    "region161": {
+      "title": "Dumont",
+      "polo": [341],
+      "polos": 1
+    },
+    "region162": {
+      "title": "Echaporã",
+      
+      "polos": 0
+    },
+    "region163": {
+      "title": "Eldorado ",
+      "polo": [332],
+      "polos": 1
+    },
+    "region164": {
+      "title": "Elias Fausto",
+      "polo": [149],
+      "polos": 1
+    },
+    "region165": {
+      "title": "Elisiário",
+      
+      "polos": 0
+    },
+    "region166": {
+      "title": "Embaúba",
+      
+      "polos": 0
+    },
+    "region167": {
+      "title": "Embu das Artes",
+      "polo": [59],
+      "polos": 1
+    },
+    "region168": {
+      "title": "Embu-Guaçu",
+      
+      "polos": 0
+    },
+    "region169": {
+      "title": "Emilianópolis ",
+      
+      "polos": 0
+    },
+    "region170": {
+      "title": "Engenheiro Coelho",
+      "polo": [150],
+      "polos": 1
+    },
+    "region171": {
+      "title": "Espírito Santo do Pinhal",
+      "polo": [151],
+      "polos": 1
+    },
+    "region172": {
+      "title": "Espírito Santo do Turvo",
+      
+      "polos": 0
+    },
+    "region173": {
+      "title": "Estrela d'Oeste Estrela ",
+      
+      "polos": 0
+    },
+    "region174": {
+      "title": "Estrela do Norte ",
+      "polo": [398],
+      "polos": 1
+    },
+    "region175": {
+      "title": "Euclides da Cunha Paulista",
+      
+      "polos": 0
+    },
+    "region176": {
+      "title": "Fartura",
+      "polo": [269],
+      "polos": 1
+    },
+    "region177": {
+      "title": "Fernandópolis  ",
+      "polo": [270],
+      "polos": 1
+    },
+    "region178": {
+      "title": "Fernando Prestes",
+      "polo": [468],
+      "polos": 1
+    },
+    "region179": {
+      "title": "Fernão",
+      
+      "polos": 0
+    },
+    "region180": {
+      "title": "Ferraz de Vasconcelos",
+      "polo": [414],
+      "polos": 1
+    },
+    "region181": {
+      "title": "Flora Rica ",
+      "polo": [271],
+      "polos": 1
+    },
+    "region182": {
+      "title": "Floreal ",
+      
+      "polos": 0
+    },
+    "region183": {
+      "title": "Flórida Paulista ",
+      "polo": [152],
+      "polos": 1
+    },
+    "region184": {
+      "title": "Florínea",
+      
+      "polos": 0
+    },
+    "region185": {
+      "title": "Franca",
+      "polo": [7],
+      "polos": 1
+    },
+    "region186": {
+      "title": "Francisco Morato",
+      "polo": [153],
+      "polos": 1
+    },
+    "region187": {
+      "title": "Franco da Rocha",
+      "polo": [154],
+      "polos": 1
+    },
+    "region188": {
+      "title": "Gabriel Monteiro",
+      
+      "polos": 0
+    },
+    "region189": {
+      "title": "Gália",
+      
+      "polos": 0
+    },
+    "region190": {
+      "title": "Garça",
+      "polo": [155],
+      "polos": 1
+    },
+    "region191": {
+      "title": "Gastão Vidigal ",
+      
+      "polos": 0
+    },
+    "region192": {
+      "title": "Gavião Peixoto",
+      "polo": [272],
+      "polos": 1
+    },
+    "region193": {
+      "title": "General Salgado",
+      
+      "polos": 0
+    },
+    "region194": {
+      "title": "Getulina",
+      
+      "polos": 0
+    },
+    "region195": {
+      "title": "Glicério",
+      
+      "polos": 0
+    },
+    "region196": {
+      "title": "Guaiçara",
+      
+      "polos": 0
+    },
+    "region197": {
+      "title": "Guaimbê",
+      
+      "polos": 0
+    },
+    "region198": {
+      "title": "Guaíra",
+      "polo": [235],
+      "polos": 1
+    },
+    "region199": {
+      "title": "Guapiaçu ",
+      "polo": [273],
+      "polos": 1
+    },
+    "region200": {
+      "title": "Guapiara ",
+      
+      "polos": 0
+    },
+    "region201": {
+      "title": "Guará",
+      "polo": [342],
+      "polos": 1
+    },
+    "region202": {
+      "title": "Guaraçaí ",
+      
+      "polos": 0
+    },
+    "region203": {
+      "title": "Guaraci ",
+      "polo": [274],
+      "polos": 1
+    },
+    "region204": {
+      "title": "Guarani d'Oeste ",
+      "polo": [473],
+      "polos": 1
+    },
+    "region205": {
+      "title": "Guarantã",
+      
+      "polos": 0
+    },
+    "region206": {
+      "title": "Guararapes ",
+      "polo": [275],
+      "polos": 1
+    },
+    "region207": {
+      "title": "Guararema ",
+      "polo": [156],
+      "polos": 1
+    },
+    "region208": {
+      "title": "Guaratinguetá",
+      "polo": [157],
+      "polos": 1
+    },
+    "region209": {
+      "title": "Guareí",
+      "polo": [276],
+      "polos": 1
+    },
+    "region210": {
+      "title": "Guariba",
+      "polo": [158],
+      "polos": 1
+    },
+    "region211": {
+      "title": "Guarujá ",
+      "polo": [60],
+      "polos": 1
+    },
+    "region212": {
+      "title": "Guarulhos",
+      "polo": [61],
+      "polos": 1
+    },
+    "region213": {
+      "title": "Guatapará",
+      "polo": [415],
+      "polos": 1
+    },
+    "region214": {
+      "title": "Guzolândia",
+      
+      "polos": 0
+    },
+    "region215": {
+      "title": "Herculândia",
+      "polo": [343],
+      "polos": 1
+    },
+    "region216": {
+      "title": "Holambra",
+      "polo": [227],
+      "polos": 1
+    },
+    "region217": {
+      "title": "Hortolândia",
+      "polo": [159],
+      "polos": 1
+    },
+    "region218": {
+      "title": "Iacanga",
+      "polo": [160],
+      "polos": 1
+    },
+    "region219": {
+      "title": "Iacri",
+      
+      "polos": 0
+    },
+    "region220": {
+      "title": "Iaras",
+      
+      "polos": 0
+    },
+    "region221": {
+      "title": "Ibaté",
+      
+      "polos": 0
+    },
+    "region222": {
+      "title": "Ibirá",
+      "polo": [161],
+      "polos": 1
+    },
+    "region223": {
+      "title": "Ibirarema",
+      
+      "polos": 0
+    },
+    "region224": {
+      "title": "Ibitinga",
+      "polo": [62],
+      "polos": 1
+    },
+    "region225": {
+      "title": "Ibiúna ",
+      "polo": [278],
+      "polos": 1
+    },
+    "region226": {
+      "title": "Icém ",
+      "polo": [416],
+      "polos": 1
+    },
+    "region227": {
+      "title": "Iepê",
+      
+      "polos": 0
+    },
+    "region228": {
+      "title": "Igaraçu do Tietê",
+      "polo": [279],
+      "polos": 1
+    },
+    "region229": {
+      "title": "Igarapava",
+      "polo": [162],
+      "polos": 1
+    },
+    "region230": {
+      "title": "Igaratá",
+      "polo": [333],
+      "polos": 1
+    },
+    "region231": {
+      "title": "Iguape ",
+      "polo": [63],
+      "polos": 1
+    },
+    "region232": {
+      "title": "Ilhabela ",
+      "polo": [163],
+      "polos": 1
+    },
+    "region233": {
+      "title": "Ilha Comprida",
+      "polo": [322],
+      "polos": 1
+    },
+    "region234": {
+      "title": "Ilha Solteira ",
+      "polo": [324],
+      "polos": 1
+    },
+    "region235": {
+      "title": "Indaiatuba",
+      "polo": [8],
+      "polos": 1
+    },
+    "region236": {
+      "title": "Indiana ",
+      
+      "polos": 0
+    },
+    "region237": {
+      "title": "Indiaporã ",
+      
+      "polos": 0
+    },
+    "region238": {
+      "title": "Inúbia Paulista",
+      
+      "polos": 0
+    },
+    "region239": {
+      "title": "Ipaussu",
+      "polo": [164],
+      "polos": 1
+    },
+    "region240": {
+      "title": "Iperó",
+      "polo": [165],
+      "polos": 1
+    },
+    "region241": {
+      "title": "Ipeúna",
+      "polo": [325],
+      "polos": 1
+    },
+    "region242": {
+      "title": "Ipiguá ",
+      
+      "polos": 0
+    },
+    "region243": {
+      "title": "Iporanga ",
+      "polo": [326],
+      "polos": 1
+    },
+    "region244": {
+      "title": "Ipuã",
+      
+      "polos": 0
+    },
+    "region245": {
+      "title": "Iracemápolis",
+      
+      "polos": 0
+    },
+    "region246": {
+      "title": "Irapuã",
+      
+      "polos": 0
+    },
+    "region247": {
+      "title": "Irapuru",
+      "polo": [447],
+      "polos": 1
+    },
+    "region248": {
+      "title": "Itaberá ",
+      "polo": [327],
+      "polos": 1
+    },
+    "region249": {
+      "title": "Itaí",
+      "polo": [166],
+      "polos": 1
+    },
+    "region250": {
+      "title": "Itajobi",
+      "polo": [280],
+      "polos": 1
+    },
+    "region251": {
+      "title": "Itaju",
+      "polo": [344],
+      "polos": 1
+    },
+    "region252": {
+      "title": "Itanhaém ",
+      "polo": [167],
+      "polos": 1
+    },
+    "region253": {
+      "title": "Itaoca ",
+      "polo": [247],
+      "polos": 1
+    },
+    "region254": {
+      "title": "Itapecerica da Serra",
+      "polo": [281],
+      "polos": 1
+    },
+    "region255": {
+      "title": "Itapetininga",
+      "polo": [46],
+      "polos": 1
+    },
+    "region256": {
+      "title": "Itapeva ",
+      "polo": [64],
+      "polos": 1
+    },
+    "region257": {
+      "title": "Itapevi",
+      "polo": [65],
+      "polos": 1
+    },
+    "region258": {
+      "title": "Itapira",
+      "polo": [417],
+      "polos": 1
+    },
+    "region259": {
+      "title": "Itapirapuã Paulista ",
+      
+      "polos": 0
+    },
+    "region260": {
+      "title": "Itápolis",
+      "polo": [168],
+      "polos": 1
+    },
+    "region261": {
+      "title": "Itaporanga",
+      "polo": [345],
+      "polos": 1
+    },
+    "region262": {
+      "title": "Itapuí",
+      "polo": [328],
+      "polos": 1
+    },
+    "region263": {
+      "title": "Itapura ",
+      
+      "polos": 0
+    },
+    "region264": {
+      "title": "Itaquaquecetuba",
+      "polo": [169],
+      "polos": 1
+    },
+    "region265": {
+      "title": "Itararé ",
+      "polo": [346],
+      "polos": 1
+    },
+    "region266": {
+      "title": "Itariri",
+      "polo": [329],
+      "polos": 1
+    },
+    "region267": {
+      "title": "Itatiba",
+      "polo": [347],
+      "polos": 1
+    },
+    "region268": {
+      "title": "Itatinga",
+      "polo": [457],
+      "polos": 1
+    },
+    "region269": {
+      "title": "Itirapina",
+      
+      "polos": 0
+    },
+    "region270": {
+      "title": "Itirapuã",
+      
+      "polos": 0
+    },
+    "region271": {
+      "title": "Itobi",
+      
+      "polos": 0
+    },
+    "region272": {
+      "title": "Itu",
+      "polo": [10],
+      "polos": 1
+    },
+    "region273": {
+      "title": "Itupeva",
+      "polo": [170],
+      "polos": 1
+    },
+    "region274": {
+      "title": "Ituverava",
+      "polo": [171],
+      "polos": 1
+    },
+    "region275": {
+      "title": "Jaborandi",
+      "polo": [448],
+      "polos": 1
+    },
+    "region276": {
+      "title": "Jaboticabal",
+      "polo": [172],
+      "polos": 1
+    },
+    "region277": {
+      "title": "Jacareí ",
+      "polo": [173],
+      "polos": 1
+    },
+    "region278": {
+      "title": "Jaci",
+      
+      "polos": 0
+    },
+    "region279": {
+      "title": "Jacupiranga ",
+      "polo": [174],
+      "polos": 1
+    },
+    "region280": {
+      "title": "Jaguariúna",
+      "polo": [175],
+      "polos": 1
+    },
+    "region281": {
+      "title": "Jales ",
+      "polo": [336],
+      "polos": 1
+    },
+    "region282": {
+      "title": "Jambeiro",
+      "polo": [176],
+      "polos": 1
+    },
+    "region283": {
+      "title": "Jandira",
+      "polo": [66],
+      "polos": 1
+    },
+    "region284": {
+      "title": "Jardinópolis",
+      
+      "polos": 0
+    },
+    "region285": {
+      "title": "Jarinu",
+      
+      "polos": 0
+    },
+    "region286": {
+      "title": "Jaú",
+      "polo": [12],
+      "polos": 1
+    },
+    "region287": {
+      "title": "Jeriquara",
+      
+      "polos": 0
+    },
+    "region288": {
+      "title": "Joanópolis",
+      
+      "polos": 0
+    },
+    "region289": {
+      "title": "João Ramalho ",
+      
+      "polos": 0
+    },
+    "region290": {
+      "title": "José Bonifácio",
+      "polo": [282],
+      "polos": 1
+    },
+    "region291": {
+      "title": "Júlio Mesquita",
+      
+      "polos": 0
+    },
+    "region292": {
+      "title": "Jumirim",
+      
+      "polos": 0
+    },
+    "region293": {
+      "title": "Jundiaí",
+      
+      "polos": 0
+    },
+    "region294": {
+      "title": "Junqueirópolis ",
+      
+      "polos": 0
+    },
+    "region295": {
+      "title": "Juquiá ",
+      "polo": [177],
+      "polos": 1
+    },
+    "region296": {
+      "title": "Juquitiba",
+      "polo": [283],
+      "polos": 1
+    },
+    "region297": {
+      "title": "Lagoinha ",
+      "polo": [284],
+      "polos": 1
+    },
+    "region298": {
+      "title": "Laranjal Paulista",
+      "polo": [178],
+      "polos": 1
+    },
+    "region299": {
+      "title": "Lavínia ",
+      
+      "polos": 0
+    },
+    "region300": {
+      "title": "Lavrinhas ",
+      
+      "polos": 0
+    },
+    "region301": {
+      "title": "Leme",
+      "polo": [179],
+      "polos": 1
+    },
+    "region302": {
+      "title": "Lençóis Paulista",
+      "polo": [180],
+      "polos": 1
+    },
+    "region303": {
+      "title": "Limeira",
+      "polo": [181],
+      "polos": 1
+    },
+    "region304": {
+      "title": "Lindoia",
+      "polo": [472],
+      "polos": 0
+    },
+    "region305": {
+      "title": "Lins",
+      "polo": [182],
+      "polos": 1
+    },
+    "region306": {
+      "title": "Lorena ",
+      "polo": [183],
+      "polos": 1
+    },
+    "region307": {
+      "title": "Lourdes",
+      
+      "polos": 0
+    },
+    "region308": {
+      "title": "Louveira",
+      "polo": [184],
+      "polos": 1
+    },
+    "region309": {
+      "title": "Lucélia  ",
+      "polo": [248],
+      "polos": 1
+    },
+    "region310": {
+      "title": "Lucianópolis",
+      
+      "polos": 0
+    },
+    "region311": {
+      "title": "Luiz Antônio",
+      "polo": [285],
+      "polos": 1
+    },
+    "region312": {
+      "title": "Luiziânia",
+      
+      "polos": 0
+    },
+    "region313": {
+      "title": "Lupércio",
+      
+      "polos": 0
+    },
+    "region314": {
+      "title": "Lutécia",
+      
+      "polos": 0
+    },
+    "region315": {
+      "title": "Macatuba",
+      "polo": [348],
+      "polos": 1
+    },
+    "region316": {
+      "title": "Macaubal",
+      
+      "polos": 0
+    },
+    "region317": {
+      "title": "Macedônia ",
+      
+      "polos": 0
+    },
+    "region318": {
+      "title": "Magda ",
+      
+      "polos": 0
+    },
+    "region319": {
+      "title": "Mairinque",
+      "polo": [185],
+      "polos": 1
+    },
+    "region320": {
+      "title": "Mairiporã",
+      "polo": [330],
+      "polos": 1
+    },
+    "region321": {
+      "title": "Manduri",
+      "polo": [418],
+      "polos": 1
+    },
+    "region322": {
+      "title": "Marabá Paulista",
+      
+      "polos": 0
+    },
+    "region323": {
+      "title": "Maracaí",
+      "polo": [186],
+      "polos": 1
+    },
+    "region324": {
+      "title": "Marapoama",
+      
+      "polos": 0
+    },
+    "region325": {
+      "title": "Mariápolis ",
+      
+      "polos": 0
+    },
+    "region326": {
+      "title": "Marília",
+      "polo": [187],
+      "polos": 1
+    },
+    "region327": {
+      "title": "Marinópolis ",
+      
+      "polos": 0
+    },
+    "region328": {
+      "title": "Martinópolis",
+      "polo": [399],
+      "polos": 1
+    },
+    "region329": {
+      "title": "Matão",
+      "polo": [188],
+      "polos": 1
+    },
+    "region330": {
+      "title": "Mauá",
+      "polo": [48],
+      "polos": 1
+    },
+    "region331": {
+      "title": "Mendonça",
+      
+      "polos": 0
+    },
+    "region332": {
+      "title": "Meridiano ",
+      
+      "polos": 0
+    },
+    "region333": {
+      "title": "Mesópolis ",
+      
+      "polos": 0
+    },
+    "region334": {
+      "title": "Miguelópolis",
+      "polo": [419],
+      "polos": 1
+    },
+    "region335": {
+      "title": " Mineiros do Tietê",
+      "polo": [189],
+      "polos": 1
+    },
+    "region336": {
+      "title": "Miracatu ",
+      "polo": [190],
+      "polos": 1
+    },
+    "region337": {
+      "title": "Mira Estrela ",
+      
+      "polos": 0
+    },
+    "region338": {
+      "title": "Mirandópolis ",
+      
+      "polos": 0
+    },
+    "region339": {
+      "title": "Mirante do Paranapanema",
+      "polo": [286],
+      "polos": 1
+    },
+    "region340": {
+      "title": "Mirassol ",
+      "polo": [449],
+      "polos": 1
+    },
+    "region341": {
+      "title": "Mirassolândia ",
+      
+      "polos": 0
+    },
+    "region342": {
+      "title": "Mococa",
+      "polo": [14],
+      "polos": 1
+    },
+    "region343": {
+      "title": "Mogi das Cruzes",
+      "polo": [191],
+      "polos": 1
+    },
+    "region344": {
+      "title": "Mogi Guaçu",
+      
+      "polos": 0
+    },
+    "region345": {
+      "title": "Mogi Mirim",
+      "polo": [15],
+      "polos": 1
+    },
+    "region346": {
+      "title": "Mombuca",
+      "polo": [67],
+      "polos": 1
+    },
+    "region347": {
+      "title": "Monções",
+      
+      "polos": 0
+    },
+    "region348": {
+      "title": "Mongaguá ",
+      
+      "polos": 0
+    },
+    "region349": {
+      "title": "Monte Alegre do Sul",
+      
+      "polos": 0
+    },
+    "region350": {
+      "title": "Monte Alto",
+      "polo": [192],
+      "polos": 1
+    },
+    "region351": {
+      "title": "Monte Aprazível ",
+      
+      "polos": 0
+    },
+    "region352": {
+      "title": "Monte Azul Paulista",
+      "polo": [349],
+      "polos": 1
+    },
+    "region353": {
+      "title": "Monte Castelo ",
+      
+      "polos": 0
+    },
+    "region354": {
+      "title": "Monteiro Lobato ",
+      
+      "polos": 0
+    },
+    "region355": {
+      "title": "Monte Mor",
+      "polo": [287],
+      "polos": 1
+    },
+    "region356": {
+      "title": "Morro Agudo",
+      "polo": [288],
+      "polos": 1
+    },
+    "region357": {
+      "title": "Morungaba",
+      "polo": [68],
+      "polos": 1
+    },
+    "region358": {
+      "title": "Motuca",
+      "polo": [350],
+      "polos": 1
+    },
+    "region359": {
+      "title": "Murutinga do Sul ",
+      "polo": [289],
+      "polos": 1
+    },
+    "region360": {
+      "title": "Nantes ",
+      "polo": [400],
+      "polos": 1
+    },
+    "region361": {
+      "title": "Narandiba",
+      "polo": [290],
+      "polos": 1
+    },
+    "region362": {
+      "title": "Natividade da Serra ",
+      "polo": [421],
+      "polos": 1
+    },
+    "region363": {
+      "title": "Nazaré Paulista",
+      
+      "polos": 0
+    },
+    "region364": {
+      "title": "Neves Paulista",
+      
+      "polos": 0
+    },
+    "region365": {
+      "title": "Nhandeara ",
+      
+      "polos": 0
+    },
+    "region366": {
+      "title": "Nipoã",
+      
+      "polos": 0
+    },
+    "region367": {
+      "title": "Nova Aliança",
+      
+      "polos": 0
+    },
+    "region368": {
+      "title": "Nova Campina ",
+      
+      "polos": 0
+    },
+    "region369": {
+      "title": "Nova Canaã Paulista ",
+      
+      "polos": 0
+    },
+    "region370": {
+      "title": "Nova Castilho ",
+      
+      "polos": 0
+    },
+    "region371": {
+      "title": "Nova Europa",
+      
+      "polos": 0
+    },
+    "region372": {
+      "title": "Nova Granada ",
+      "polo": [193],
+      "polos": 1
+    },
+    "region373": {
+      "title": "Nova Guataporanga ",
+      
+      "polos": 0
+    },
+    "region374": {
+      "title": "Nova Independência ",
+      
+      "polos": 0
+    },
+    "region375": {
+      "title": "Novais",
+      "polo": [458],
+      "polos": 1
+    },
+    "region376": {
+      "title": "Nova Luzitânia",
+      "polo": [482],
+      "polos": 1
+    },
+    "region377": {
+      "title": "Nova Odessa",
+      
+      "polos": 0
+    },
+    "region378": {
+      "title": "Novo Horizonte",
+      "polo": [69],
+      "polos": 1
+    },
+    "region379": {
+      "title": "Nuporanga",
+      
+      "polos": 0
+    },
+    "region380": {
+      "title": "Ocauçu",
+      
+      "polos": 0
+    },
+    "region381": {
+      "title": "Óleo",
+      
+      "polos": 0
+    },
+    "region382": {
+      "title": "Olímpia ",
+      "polo": [194],
+      "polos": 1
+    },
+    "region383": {
+      "title": "Onda Verde ",
+      
+      "polos": 0
+    },
+    "region384": {
+      "title": "Oriente",
+      
+      "polos": 0
+    },
+    "region385": {
+      "title": "Orindiúva ",
+      "polo": [422],
+      "polos": 1
+    },
+    "region386": {
+      "title": "Orlândia",
+      "polo": [351],
+      "polos": 1
+    },
+    "region387": {
+      "title": "Osasco",
+      "polo": [70],
+      "polos": 1
+    },
+    "region388": {
+      "title": "Oscar Bressane",
+      
+      "polos": 0
+    },
+    "region389": {
+      "title": "Osvaldo Cruz ",
+      
+      "polos": 0
+    },
+    "region390": {
+      "title": "Ourinhos",
+      "polo": [71],
+      "polos": 1
+    },
+    "region391": {
+      "title": "Ouroeste ",
+      "polo": [195],
+      "polos": 1
+    },
+    "region392": {
+      "title": "Ouro Verde",
+      "polo": [428],
+      "polos": 1
+    },
+    "region393": {
+      "title": "Pacaembu ",
+      "polo": [196],
+      "polos": 1
+    },
+    "region394": {
+      "title": "Palestina ",
+      
+      "polos": 0
+    },
+    "region395": {
+      "title": "Palmares Paulista",
+      "polo": [423],
+      "polos": 1
+    },
+    "region396": {
+      "title": "Palmeira d'Oeste ",
+      
+      "polos": 0
+    },
+    "region397": {
+      "title": "Palmital",
+      "polo": [450],
+      "polos": 1
+    },
+    "region398": {
+      "title": "Panorama",
+      
+      "polos": 0
+    },
+    "region399": {
+      "title": "Paraguaçu Paulista",
+      "polo": [72],
+      "polos": 1
+    },
+    "region400": {
+      "title": "Paraibuna ",
+      "polo": [197],
+      "polos": 1
+    },
+    "region401": {
+      "title": "Paraíso",
+      
+      "polos": 0
+    },
+    "region402": {
+      "title": "Paranapanema",
+      "polo": [291],
+      "polos": 1
+    },
+    "region403": {
+      "title": "Paranapuã ",
+      
+      "polos": 0
+    },
+    "region404": {
+      "title": "Parapuã ",
+      "polo": [425],
+      "polos": 1
+    },
+    "region405": {
+      "title": "Pardinho",
+      "polo": [426],
+      "polos": 1
+    },
+    "region406": {
+      "title": "Pariquera-Açu ",
+      "polo": [292],
+      "polos": 1
+    },
+    "region407": {
+      "title": "Parisi ",
+      
+      "polos": 0
+    },
+    "region408": {
+      "title": "Patrocínio Paulista",
+      
+      "polos": 0
+    },
+    "region409": {
+      "title": "Paulicéia ",
+      
+      "polos": 0
+    },
+    "region410": {
+      "title": "Paulínia",
+      
+      "polos": 0
+    },
+    "region411": {
+      "title": "Paulistânia",
+      "polo": [352],
+      "polos": 1
+    },
+    "region412": {
+      "title": "Paulo de Faria ",
+      "polo": [353],
+      "polos": 1
+    },
+    "region413": {
+      "title": "Pederneiras",
+      "polo": [293],
+      "polos": 1
+    },
+    "region414": {
+      "title": "Pedra Bela",
+      
+      "polos": 0
+    },
+    "region415": {
+      "title": "Pedranópolis ",
+      
+      "polos": 0
+    },
+    "region416": {
+      "title": "Pedregulho",
+      
+      "polos": 0
+    },
+    "region417": {
+      "title": "Pedreira",
+      "polo": [73],
+      "polos": 1
+    },
+    "region418": {
+      "title": "Pedrinhas Paulista ",
+      
+      "polos": 0
+    },
+    "region419": {
+      "title": "Pedro de Toledo  ",
+      "polo": [294],
+      "polos": 1
+    },
+    "region420": {
+      "title": "Penápolis",
+      "polo": [198],
+      "polos": 1
+    },
+    "region421": {
+      "title": "Pereira Barreto ",
+      "polo": [323],
+      "polos": 1
+    },
+    "region422": {
+      "title": " Pereiras",
+      
+      "polos": 0
+    },
+    "region423": {
+      "title": "Peruíbe ",
+      "polo": [74],
+      "polos": 1
+    },
+    "region424": {
+      "title": "Piacatu",
+      "polo": [295],
+      "polos": 1
+    },
+    "region425": {
+      "title": "Piedade ",
+      
+      "polos": 0
+    },
+    "region426": {
+      "title": "Pilar do Sul ",
+      "polo": [429],
+      "polos": 1
+    },
+    "region427": {
+      "title": "Pindamonhangaba ",
+      
+      "polos": 0
+    },
+    "region428": {
+      "title": "Pindorama",
+      
+      "polos": 0
+    },
+    "region429": {
+      "title": "Pinhalzinho",
+      
+      "polos": 0
+    },
+    "region430": {
+      "title": "Piquerobi ",
+      
+      "polos": 0
+    },
+    "region431": {
+      "title": "Piquete ",
+      "polo": [296],
+      "polos": 1
+    },
+    "region432": {
+      "title": " Piracaia",
+      "polo": [75],
+      "polos": 1
+    },
+    "region433": {
+      "title": "Piracicaba",
+      "polo": [297],
+      "polos": 1
+    },
+    "region434": {
+      "title": "Piraju",
+      
+      "polos": 0
+    },
+    "region435": {
+      "title": "Pirajuí",
+      "polo": [199],
+      "polos": 1
+    },
+    "region436": {
+      "title": "Pirangi",
+      
+      "polos": 0
+    },
+    "region437": {
+      "title": "Pirapora do Bom Jesus",
+      
+      "polos": 0
+    },
+    "region438": {
+      "title": "Pirapozinho",
+      "polo": [459],
+      "polos": 1
+    },
+    "region439": {
+      "title": "Pirassununga",
+      "polo": [200],
+      "polos": 1
+    },
+    "region440": {
+      "title": "Piratininga",
+      
+      "polos": 0
+    },
+    "region441": {
+      "title": "Pitangueiras",
+      "polo": [298],
+      "polos": 1
+    },
+    "region442": {
+      "title": "Planalto",
+      "polo": [460],
+      "polos": 1
+    },
+    "region443": {
+      "title": "Platina",
+      
+      "polos": 0
+    },
+    "region444": {
+      "title": "Poá",
+      "polo": [201],
+      "polos": 1
+    },
+    "region445": {
+      "title": "Poloni ",
+      
+      "polos": 0
+    },
+    "region446": {
+      "title": "Pompeia",
+      "polo": [202],
+      "polos": 1
+    },
+    "region447": {
+      "title": "Pongaí",
+      
+      "polos": 0
+    },
+    "region448": {
+      "title": "Pontal",
+      "polo": [203],
+      "polos": 1
+    },
+    "region449": {
+      "title": "Pontalinda ",
+      
+      "polos": 0
+    },
+    "region450": {
+      "title": "Pontes Gestal ",
+      
+      "polos": 0
+    },
+    "region451": {
+      "title": "Populina ",
+      
+      "polos": 0
+    },
+    "region452": {
+      "title": "Porangaba",
+      "polo": [299],
+      "polos": 1
+    },
+    "region453": {
+      "title": "Porto Feliz",
+      "polo": [204],
+      "polos": 1
+    },
+    "region454": {
+      "title": "Porto Ferreira",
+      "polo": [300],
+      "polos": 1
+    },
+    "region455": {
+      "title": "Potim ",
+      "polo": [205],
+      "polos": 1
+    },
+    "region456": {
+      "title": "Potirendaba",
+      
+      "polos": 0
+    },
+    "region457": {
+      "title": "Pracinha ",
+      
+      "polos": 0
+    },
+    "region458": {
+      "title": "Pradópolis",
+      "polo": [354],
+      "polos": 1
+    },
+    "region459": {
+      "title": "Praia Grande ",
+      "polo": [430],
+      "polos": 1
+    },
+    "region460": {
+      "title": "Pratânia",
+      "polo": [452],
+      "polos": 1
+    },
+    "region461": {
+      "title": "Presidente Alves",
+      
+      "polos": 0
+    },
+    "region462": {
+      "title": "Presidente Bernardes",
+      "polo": [207],
+      "polos": 1
+    },
+    "region463": {
+      "title": "Presidente Epitácio",
+      "polo": [301],
+      "polos": 1
+    },
+    "region464": {
+      "title": "Presidente Prudente ",
+      "polo": [76],
+      "polos": 1
+    },
+    "region465": {
+      "title": "Presidente Venceslau ",
+      "polo": [302],
+      "polos": 1
+    },
+    "region466": {
+      "title": "Promissão",
+      
+      "polos": 0
+    },
+    "region467": {
+      "title": "Quadra",
+      
+      "polos": 0
+    },
+    "region468": {
+      "title": "Quatá ",
+      "polo": [208],
+      "polos": 1
+    },
+    "region469": {
+      "title": "Queiroz",
+      
+      "polos": 0
+    },
+    "region470": {
+      "title": "Queluz ",
+      "polo": [209],
+      "polos": 1
+    },
+    "region471": {
+      "title": "Quintana",
+      "polo": [432],
+      "polos": 1
+    },
+    "region472": {
+      "title": "Rafard",
+      
+      "polos": 0
+    },
+    "region473": {
+      "title": "Rancharia ",
+      "polo": [355],
+      "polos": 1
+    },
+    "region474": {
+      "title": "Redenção da Serra ",
+      "polo": [303],
+      "polos": 1
+    },
+    "region475": {
+      "title": "Regente Feijó ",
+      
+      "polos": 0
+    },
+    "region476": {
+      "title": "Reginópolis",
+      "polo": [356],
+      "polos": 1
+    },
+    "region477": {
+      "title": "Registro ",
+      "polo": [77],
+      "polos": 1
+    },
+    "region478": {
+      "title": "Restinga",
+      "polo": [461],
+      "polos": 1
+    },
+    "region479": {
+      "title": "Ribeira ",
+      "polo": [304],
+      "polos": 1
+    },
+    "region480": {
+      "title": "Ribeirão Bonito",
+      "polo": [305],
+      "polos": 1
+    },
+    "region481": {
+      "title": "Ribeirão Branco ",
+      
+      "polos": 0
+    },
+    "region482": {
+      "title": "Ribeirão Corrente",
+      "polo": [433],
+      "polos": 1
+    },
+    "region483": {
+      "title": "Ribeirão do Sul",
+      
+      "polos": 0
+    },
+    "region484": {
+      "title": "Ribeirão dos Índios ",
+      
+      "polos": 0
+    },
+    "region485": {
+      "title": "Ribeirão Grande",
+      
+      "polos": 0
+    },
+    "region486": {
+      "title": "Ribeirão Pires",
+      "polo": [306],
+      "polos": 1
+    },
+    "region487": {
+      "title": "Ribeirão Preto",
+      "polo": [357],
+      "polos": 1
+    },
+    "region488": {
+      "title": "Riversul ",
+      
+      "polos": 0
+    },
+    "region489": {
+      "title": "Rifaina",
+      
+      "polos": 0
+    },
+    "region490": {
+      "title": "Rincão",
+      "polo": [401],
+      "polos": 1
+    },
+    "region491": {
+      "title": "Rinópolis",
+      "polo": [402],
+      "polos": 1
+    },
+    "region492": {
+      "title": "Rio Claro",
+      "polo": [210],
+      "polos": 1
+    },
+    "region493": {
+      "title": "Rio das Pedras",
+      "polo": [211],
+      "polos": 1
+    },
+    "region494": {
+      "title": "Rio Grande da Serra",
+      
+      "polos": 0
+    },
+    "region495": {
+      "title": "Riolândia",
+      "polo": [307],
+      "polos": 1
+    },
+    "region496": {
+      "title": "Rosana",
+      "polo": [331],
+      "polos": 1
+    },
+    "region497": {
+      "title": "Roseira ",
+      
+      "polos": 0
+    },
+    "region498": {
+      "title": "Rubiácea ",
+      
+      "polos": 0
+    },
+    "region499": {
+      "title": "Rubinéia ",
+      
+      "polos": 0
+    },
+    "region500": {
+      "title": "Sabino",
+      
+      "polos": 0
+    },
+    "region501": {
+      "title": "Sagres ",
+      
+      "polos": 0
+    },
+    "region502": {
+      "title": "Sales",
+      "polo": [462],
+      "polos": 1
+    },
+    "region503": {
+      "title": "Sales Oliveira",
+      
+      "polos": 0
+    },
+    "region504": {
+      "title": "Salesópolis ",
+      "polo": [212],
+      "polos": 1
+    },
+    "region505": {
+      "title": "Salmourão",
+      
+      "polos": 0
+    },
+    "region506": {
+      "title": "Saltinho",
+      "polo": [308],
+      "polos": 1
+    },
+    "region507": {
+      "title": "Salto",
+      "polo": [309],
+      "polos": 1
+    },
+    "region508": {
+      "title": "Salto de Pirapora",
+      "polo": [463],
+      "polos": 1
+    },
+    "region509": {
+      "title": "Salto Grande",
+      
+      "polos": 0
+    },
+    "region510": {
+      "title": "Sandovalina",
+      "polo": [358],
+      "polos": 1
+    },
+    "region511": {
+      "title": "Santa Adélia",
+      "polo": [434],
+      "polos": 1
+    },
+    "region512": {
+      "title": "Santa Albertina ",
+      
+      "polos": 0
+    },
+    "region513": {
+      "title": "Santa Bárbara d'Oeste",
+      "polo": [213],
+      "polos": 1
+    },
+    "region514": {
+      "title": "Santa Branca ",
+      "polo": [214],
+      "polos": 1
+    },
+    "region515": {
+      "title": "Santa Clara d'Oeste ",
+      
+      "polos": 0
+    },
+    "region516": {
+      "title": "Santa Cruz da Conceição",
+      "polo": [453],
+      "polos": 1
+    },
+    "region517": {
+      "title": "Santa Cruz da Esperança",
+      "polo": [359],
+      "polos": 2
+    },
+    "region518": {
+      "title": "Santa Cruz das Palmeiras",
+      "polo": [215],
+      "polos": 1
+    },
+    "region519": {
+      "title": "Santa Cruz do Rio Pardo",
+      "polo": [216],
+      "polos": 1
+    },
+    "region520": {
+      "title": "Santa Ernestina",
+      
+      "polos": 0
+    },
+    "region521": {
+      "title": "Santa Fé do Sul ",
+      
+      "polos": 0
+    },
+    "region522": {
+      "title": "Santa Gertrudes",
+      "polo": [217],
+      "polos": 1
+    },
+    "region523": {
+      "title": "Santa Isabel",
+      "polo": [218],
+      "polos": 1
+    },
+    "region524": {
+      "title": "Santa Lúcia",
+      
+      "polos": 0
+    },
+    "region525": {
+      "title": "Santa Maria da Serra",
+      "polo": [467],
+      "polos": 1
+    },
+    "region526": {
+      "title": "Santa Mercedes ",
+      
+      "polos": 0
+    },
+    "region527": {
+      "title": "Santana da Ponte Pensa ",
+      
+      "polos": 0
+    },
+    "region528": {
+      "title": "Santana de Parnaíba",
+      "polo": [78],
+      "polos": 1
+    },
+    "region529": {
+      "title": "Santa Rita d'Oeste ",
+      
+      "polos": 0
+    },
+    "region530": {
+      "title": "Santa Rita do Passa Quatro",
+      
+      "polos": 0
+    },
+    "region531": {
+      "title": "Santa Rosa de Viterbo",
+      "polo": [464],
+      "polos": 1
+    },
+    "region532": {
+      "title": "Santa Salete ",
+      
+      "polos": 0
+    },
+    "region533": {
+      "title": "Santo Anastácio ",
+      "polo": [360],
+      "polos": 1
+    },
+    "region534": {
+      "title": "Santo André",
+      "polo": [237],
+      "polos": 1
+    },
+    "region535": {
+      "title": "Santo Antônio da Alegria",
+      "polo": [310],
+      "polos": 1
+    },
+    "region536": {
+      "title": "Santo Antônio de Posse",
+      
+      "polos": 0
+    },
+    "region537": {
+      "title": "Santo Antônio do Aracanguá ",
+      
+      "polos": 0
+    },
+    "region538": {
+      "title": "Santo Antônio do Jardim",
+      
+      "polos": 0
+    },
+    "region539": {
+      "title": "Santo Antônio do Pinhal ",
+      "polo": [479],
+      "polos": 1
+    },
+    "region540": {
+      "title": "Santo Expedito ",
+      "polo": [480],
+      "polos": 1
+    },
+    "region541": {
+      "title": "Santópolis do Aguapeí",
+      "polo": [403],
+      "polos": 1
+    },
+    "region542": {
+      "title": "Santos ",
+      "polo": [19,474,275,476,477],
+      "polos": 5
+    },
+    "region543": {
+      "title": "São Bento do Sapucaí ",
+      
+      "polos": 0
+    },
+    "region544": {
+      "title": "São Bernardo do Campo",
+      "polo": [311],
+      "polos": 1
+    },
+    "region545": {
+      "title": "São Caetano do Sul",
+      "polo": [238],
+      "polos": 1
+    },
+    "region546": {
+      "title": "São Carlos",
+      "polo": [219],
+      "polos": 1
+    },
+    "region547": {
+      "title": "São Francisco ",
+      
+      "polos": 0
+    },
+    "region548": {
+      "title": "São João da Boa Vista",
+      "polo": [79],
+      "polos": 1
+    },
+    "region549": {
+      "title": "São João das Duas Pontes ",
+      
+      "polos": 0
+    },
+    "region550": {
+      "title": "São João de Iracema ",
+      
+      "polos": 0
+    },
+    "region551": {
+      "title": "São João do Pau d'Alho",
+      
+      "polos": 0
+    },
+    "region552": {
+      "title": "São Joaquim da Barra",
+      
+      "polos": 0
+    },
+    "region553": {
+      "title": "São José da Bela Vista",
+      
+      "polos": 0
+    },
+    "region554": {
+      "title": "São José do Barreiro ",
+      "polo": [361],
+      "polos": 1
+    },
+    "region555": {
+      "title": "São José do Rio Pardo",
+      "polo": [80],
+      "polos": 1
+    },
+    "region556": {
+      "title": "São José do Rio Preto ",
+      "polo": [21],
+      "polos": 1
+    },
+    "region557": {
+      "title": "São José dos Campos ",
+      "polo": [22,47],
+      "polos": 2
+    },
+    "region558": {
+      "title": "São Lourenço da Serra",
+      "polo": [312],
+      "polos": 1
+    },
+    "region559": {
+      "title": "São Luiz do Paraitinga ",
+      "polo": [404],
+      "polos": 1
+    },
+    "region560": {
+      "title": "São Manuel",
+      
+      "polos": 0
+    },
+    "region561": {
+      "title": "São Miguel Arcanjo ",
+      "polo": [313],
+      "polos": 1
+    },
+    "region562": {
+      "title": "São Paulo",
+      "polos": 52,
+      "polo": [23,339,24,25,81,26,362,27,363,82,442,28,29,364,83,84,365,85,366,30,367,31,32,368,33,86,87,88,370,89,454,444,34,35,369,36,90,445,37,38,91,446,92,371,93,94,372,373,40,41,95,374]
+    },
+    "region563": {
+      "title": "São Pedro",
+      "polo": [220], 
+      "polos": 1
+    },
+    "region564": {
+      "title": "São Pedro do Turvo",
+      "polo": [375], 
+      "polos": 1
+    },
+    "region565": {
+      "title": "São Roque",
+      "polo": [437], 
+      "polos": 1
+    },
+    "region566": {
+      "title": "São Sebastião ",
+      "polo": [96], 
+      "polos": 1
+    },
+    "region567": {
+      "title": "São Sebastião da Grama",
+      
+      "polos": 0
+    },
+    "region568": {
+      "title": "São Simão",
+      "polo": [222], 
+      "polos": 1
+    },
+    "region569": {
+      "title": "São Vicente ",
+      "polo": [101,102], 
+      "polos": 2
+    },
+    "region570": {
+      "title": "Sarapuí",
+      "polo": [223], 
+      "polos": 1
+    },
+    "region571": {
+      "title": "Sarutaiá",
+      
+      "polos": 0
+    },
+    "region572": {
+      "title": "Sebastianópolis do Sul ",
+      "polo": [438], 
+      "polos": 1
+    },
+    "region573": {
+      "title": "Serra Azul",
+      
+      "polos": 0
+    },
+    "region574": {
+      "title": "Serrana",
+      "polo": [314], 
+      "polos": 1
+    },
+    "region575": {
+      "title": "Serra Negra",
+      "polo": [465], 
+      "polos": 1
+    },
+    "region576": {
+      "title": "Sertãozinho",
+      "polo": [224], 
+      "polos": 1
+    },
+    "region577": {
+      "title": "Sete Barras ",
+      "polo": [315], 
+      "polos": 1
+    },
+    "region578": {
+      "title": "Severínia",
+      "polo": [316], 
+      "polos": 1
+    },
+    "region579": {
+      "title": "Silveiras ",
+      
+      "polos": 0
+    },
+    "region580": {
+      "title": "Socorro",
+      "polo": [225], 
+      "polos": 1
+    },
+    "region581": {
+      "title": "Sorocaba",
+      "polo": [226], 
+      "polos": 1
+    },
+    "region582": {
+      "title": "Sud Mennucci ",
+      "polo": [376], 
+      "polos": 1
+    },
+    "region583": {
+      "title": "Sumaré",
+      "polo": [227],
+      "polos": 1
+    },
+    "region584": {
+      "title": "Suzano",
+      "polo": [228],
+      "polos": 1
+    },
+    "region585": {
+      "title": "Suzanápolis ",
+      "polo": [469],
+      "polos": 1
+    },
+    "region586": {
+      "title": "Tabapuã ",
+      
+      "polos": 0
+    },
+    "region587": {
+      "title": "Tabatinga",
+      "polo": [439],
+      "polos": 1
+    },
+    "region588": {
+      "title": "Taboão da Serra",
+      
+      "polos": 0
+    },
+    "region589": {
+      "title": "Taciba ",
+      "polo": [440],
+      "polos": 1
+    },
+    "region590": {
+      "title": "Taguaí",
+      
+      "polos": 0
+    },
+    "region591": {
+      "title": "Taiaçu",
+      
+      "polos": 0
+    },
+    "region592": {
+      "title": "Taiúva",
+      
+      "polos": 0
+    },
+    "region593": {
+      "title": "Tambaú",
+      "polo": [229],
+      "polos": 1
+    },
+    "region594": {
+      "title": "Tanabi ",
+      
+      "polos": 0
+    },
+    "region595": {
+      "title": "Tapiraí ",
+      
+      "polos": 0
+    },
+    "region596": {
+      "title": "Tapiratiba",
+      "polo": [317],
+      "polos": 1
+    },
+    "region597": {
+      "title": "Taquaral",
+      "polo": [318],
+      "polos": 1
+    },
+    "region598": {
+      "title": "Taquaritinga",
+      "polo": [230],
+      "polos": 1
+    },
+    "region599": {
+      "title": "Taquarituba",
+      "polo": [231],
+      "polos": 1
+    },
+    "region600": {
+      "title": "Taquarivaí ",
+      "polo": [377],
+      "polos": 1
+    },
+    "region601": {
+      "title": "Tarabai",
+      "polo": [378],
+      "polos": 1
+    },
+    "region602": {
+      "title": "Tarumã ",
+      "polo": [42],
+      "polos": 1
+    },
+    "region603": {
+      "title": "Tatuí",
+      "polo": [232],
+      "polos": 1
+    },
+    "region604": {
+      "title": "Taubaté ",
+      "polo": [319],
+      "polos": 1
+    },
+    "region605": {
+      "title": "Tejupá",
+      
+      "polos": 0
+    },
+    "region606": {
+      "title": "Teodoro Sampaio",
+      "polo": [97],
+      "polos": 1
+    },
+    "region607": {
+      "title": "Terra Roxa",
+      
+      "polos": 0
+    },
+    "region608": {
+      "title": "Tietê",
+      "polo": [233],
+      "polos": 1
+    },
+    "region609": {
+      "title": "Timburi",
+      
+      "polos": 0
+    },
+    "region610": {
+      "title": "Torre de Pedra",
+      
+      "polos": 0
+    },
+    "region611": {
+      "title": "Torrinha",
+      "polo": [234],
+      "polos": 1
+    },
+    "region612": {
+      "title": "Trabiju",
+      
+      "polos": 0
+    },
+    "region613": {
+      "title": "Tremembé ",
+      "polo": [320],
+      "polos": 1
+    },
+    "region614": {
+      "title": "Três Fronteiras ",
+      
+      "polos": 0
+    },
+    "region615": {
+      "title": "Tuiuti",
+      
+      "polos": 0
+    },
+    "region616": {
+      "title": "Tupã",
+      "polo": [246],
+      "polos": 1
+    },
+    "region617": {
+      "title": "Tupi Paulista ",
+      
+      "polos": 0
+    },
+    "region618": {
+      "title": "Turiúba",
+      
+      "polos": 0
+    },
+    "region619": {
+      "title": "Turmalina ",
+      
+      "polos": 0
+    },
+    "region620": {
+      "title": "Ubarana",
+      
+      "polos": 0
+    },
+    "region621": {
+      "title": "Ubatuba ",
+      "polo": [441],
+      "polos": 1
+    },
+    "region622": {
+      "title": "Ubirajara",
+      
+      "polos": 0
+    },
+    "region623": {
+      "title": "Uchoa",
+      
+      "polos": 0
+    },
+    "region624": {
+      "title": "União Paulista",
+      
+      "polos": 0
+    },
+    "region625": {
+      "title": "Urânia ",
+      
+      "polos": 0
+    },
+    "region626": {
+      "title": "Uru",
+      "polo": [478],
+      "polos": 1
+    },
+    "region627": {
+      "title": "Urupês",
+      "polo": [240],
+      "polos": 1
+    },
+    "region628": {
+      "title": "Valentim Gentil ",
+      
+      "polos": 0
+    },
+    "region629": {
+      "title": "Valinhos",
+      "polo": [379],
+      "polos": 1
+    },
+    "region630": {
+      "title": "Valparaíso ",
+      "polo": [466],
+      "polos": 1
+    },
+    "region631": {
+      "title": "Vargem",
+      
+      "polos": 0
+    },
+    "region632": {
+      "title": "Vargem Grande do Sul",
+      "polo": [98],
+      "polos": 1
+    },
+    "region633": {
+      "title": "Vargem Grande Paulista",
+      "polo": [241],
+      "polos": 1
+    },
+    "region634": {
+      "title": "Várzea Paulista",
+      "polo": [242],
+      "polos": 1
+    },
+    "region635": {
+      "title": "Vera Cruz",
+      "polo": [243],
+      "polos": 1
+    },
+    "region636": {
+      "title": "Vinhedo",
+      "polo": [99],
+      "polos": 1
+    },
+    "region637": {
+      "title": "Viradouro",
+      "polo": [244],
+      "polos": 1
+    },
+    "region638": {
+      "title": "Vista Alegre do Alto",
+      
+      "polos": 0
+    },
+    "region639": {
+      "title": "Vitória Brasil ",
+      
+      "polos": 0
+    },
+    "region640": {
+      "title": "Votorantim",
+      "polo": [245],
+      "polos": 1
+    },
+    "region641": {
+      "title": "Votuporanga ",
+      "polo": [100],
+      "polos": 1
+    },
+    "region642": {
+      "title": "Zacarias",
+      
+      "polos": 0
+    },
+    "region643": {
+      "title": "Chavantes",
+      "polo": [265],
+      "polos": 1
+    },
+    "region644": {
+      "title": "Estiva Gerbi",
+      "polo": [268],
+      "polos": 1
+    }
+  }
